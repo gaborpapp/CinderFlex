@@ -4,7 +4,7 @@
 #include "cinder/Rand.h"
 #include "cinder/app/RendererGl.h"
 #include "cinder/gl/gl.h"
-#include "cinder/GeomIO.h"
+#include "cinder/GeomIo.h"
 #include "cinder/ImageIo.h"
 #include "cinder/params/Params.h"
 
